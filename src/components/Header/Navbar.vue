@@ -1,5 +1,11 @@
 <template>
 <nav class="mb-1 navbar navbar-expand-lg navbar-dark info-color fixed-top">
+<a class="navbar-brand" href="#">
+  <svg xmlns="http://www.w3.org/2000/svg" width="617" height="73" viewBox="0 0 617 73">
+  <text id="SUBBHASHIT" transform="translate(1 50)" fill="#707070" font-size="40" font-family="GreatVibes-Regular, Great Vibes"><tspan x="0" y="0">SUBBHASHIT</tspan></text>
+</svg>
+
+</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-4"
     aria-controls="navbarSupportedContent-4" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -33,5 +39,20 @@
 <style scoped>
 ul li{
   padding: 20px ;
+}
+nav svg text{
+  stroke: yellow;
+  stroke-width: 1;
+  animation: textAnimate 8s infinite;
+}
+
+@keyframes textAnimate {
+  0%{
+    stroke-dasharray: 0 50%;
+  }
+  100%{
+    stroke-dasharray: 50% 0;
+  }
+  
 }
 </style>

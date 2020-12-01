@@ -333,7 +333,6 @@ data-aos-delay="500"
         <!--Title-->
         <h4 class="card-title"><strong>Face Detection MTCNN</strong></h4>
         <h5 class="indigo-text"><strong>Computer Vision</strong></h5>
-
         <p class="card-text">This is a fun project which deals with identifying the key features of your face like nose eyes and mouth along with face
         </p>
         <a class="btn btn-unique" href="https://github.com/23subbhashit/face-detection-using-mtcnn" style="color:white;">Check</a>
