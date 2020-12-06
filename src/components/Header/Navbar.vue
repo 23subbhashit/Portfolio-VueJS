@@ -37,6 +37,7 @@
 </template>
 
 <style scoped>
+@import url(https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap);
 ul li{
   padding: 20px ;
 }
@@ -54,5 +55,10 @@ nav svg text{
     stroke-dasharray: 50% 0;
   }
   
+}
+@media(max-width: 500px){
+  nav svg text{
+    font-size: 35px;
+}
 }
 </style>

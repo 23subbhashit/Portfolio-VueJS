@@ -16,32 +16,32 @@
     <div class="col-xl-4 col-md-6">
             <h3 class="progress-title">HTML5</h3>
             <div class="progress pink">
-                <div class="progress-bar" style="width:90%; background:#ff4b7d;">
-                    <div class="progress-value">80%</div>
+                <div class="progress-bar" style="width:85%; background:#ff4b7d;">
+                    <div class="progress-value">85%</div>
                 </div>
             </div>
  
             <h3 class="progress-title">CSS3</h3>
             <div class="progress green">
-                <div class="progress-bar" style="width:75%; background:#5fad56;">
-                    <div class="progress-value">80%</div>
+                <div class="progress-bar" style="width:85%; background:green;">
+                    <div class="progress-value">85%</div>
                 </div>
             </div>
             <h3 class="progress-title">Python</h3>
             <div class="progress pink">
-                <div class="progress-bar" style="width:75%; background:#ff4b7d;">
+                <div class="progress-bar" style="width:95%; background:#ff4b7d;">
                     <div class="progress-value">95%</div>
                 </div>
             </div>
             <h3 class="progress-title">Machine Learning</h3>
             <div class="progress green">
-                <div class="progress-bar" style="width:75%; background:#5fad56;">
+                <div class="progress-bar" style="width:95%; background:green;">
                     <div class="progress-value">95%</div>
                 </div>
             </div>
             <h3 class="progress-title">Deep Learning</h3>
             <div class="progress pink">
-                <div class="progress-bar" style="width:75%; background:#ff4b7d;">
+                <div class="progress-bar" style="width:90%; background:#ff4b7d;">
                     <div class="progress-value">90%</div>
                 </div>
             </div>
@@ -51,26 +51,26 @@
             
             <h3 class="progress-title">Data Science</h3>
             <div class="progress pink">
-                <div class="progress-bar" style="width:75%; background:#ff4b7d;">
+                <div class="progress-bar" style="width:95%; background:#ff4b7d;">
                     <div class="progress-value">95%</div>
                 </div>
             </div>
             <h3 class="progress-title">Mysql</h3>
             <div class="progress green">
-                <div class="progress-bar" style="width:75%; background:#5fad56;">
-                    <div class="progress-value">75%</div>
+                <div class="progress-bar" style="width:80%; background:green;">
+                    <div class="progress-value">80%</div>
                 </div>
             </div>
             <h3 class="progress-title">VueJS</h3>
             <div class="progress pink">
-                <div class="progress-bar" style="width:75%; background:#ff4b7d;">
-                    <div class="progress-value">88%</div>
+                <div class="progress-bar" style="width:90%; background:#ff4b7d;">
+                    <div class="progress-value">90%</div>
                 </div>
             </div>
             <h3 class="progress-title">Kotlin</h3>
             <div class="progress green">
-                <div class="progress-bar" style="width:75%; background:#5fad56;">
-                    <div class="progress-value">75%</div>
+                <div class="progress-bar" style="width:70%; background:green;">
+                    <div class="progress-value">70%</div>
                 </div>
             </div>
             <h3 class="progress-title">NodeJS</h3>
