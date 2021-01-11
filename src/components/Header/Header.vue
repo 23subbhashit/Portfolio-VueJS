@@ -3,12 +3,12 @@
 
 
 <div data-aos="fade-up"
-     data-aos-duration="3000" style="width:100%;">
+     data-aos-duration="3000">
 
 
 
-    <div class="div div-header" >
-      <section class="sec sec-header" style="">
+    <div class="div div-header" style="width:100%" >
+      <section class="sec sec-header" style="width:100%">
         <h1>Hi, I'm Subbhashit ;) <span id="cursor">|</span></h1>
         <hr class="col-xs-12 d-none d-sm-block" style="background-color: white; width: 90%; height: 2px; border-radius: 3px">
         <div class="presentation">
@@ -35,11 +35,11 @@
   color: #DDD;
   position: relative;
   background-image: url(https://image.freepik.com/free-photo/aerial-view-of-computer-laptop-on-wooden-table-photography-hobby-concept_53876-20659.jpg);
+  
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center;
-  width: 100%;
+  background-position: center;
 }
 
 .sec-header{

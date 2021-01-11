@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <Navbar></Navbar>
-    <Header></Header>>
+    <Header style="margin:0"></Header>
+    
     <router-view></router-view>
     <PreFooter></PreFooter>
     <br/>
@@ -12,9 +13,9 @@
 
 <script>
 import Navbar from './components/Header/Navbar.vue'
-import Header from '@/components/Header/Header'
-import PreFooter from '@/components/Footer/Pre-footer'
-import Footer from '@/components/Footer/Footer'
+import Header from './components/Header/Header'
+//import PreFooter from './components/Footer/Pre-footer'
+import Footer from './components/Footer/Footer'
 
 
 export default {
@@ -22,7 +23,7 @@ export default {
   components: {
     Navbar,
     Header,
-    PreFooter,
+    //PreFooter,
     Footer
   }
 }
@@ -30,11 +31,6 @@ export default {
 
 <style>
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
   margin-top: 60px;
   width: 100%;
 }

@@ -1,8 +1,8 @@
 <template>
-<div data-aos="zoom-in-left"
-     data-aos-duration="3000">
+
+
     <div class="card ">
-<div class="card border-primary">
+<div class="card border-primary" style="margin-top:-300px">
 <div class="container">
 <br/>
     <br/><br/>
@@ -87,7 +87,7 @@
 </div>
 </div>
 </div>
-</div>
+
 </template>
 
 <style scoped>

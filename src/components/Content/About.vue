@@ -1,17 +1,16 @@
 <template>
 
 
-<div data-aos="fade-up"
-     data-aos-duration="3000">
 
 
 
-    <div class="card border-success">
+
+    <div class="card border-success" style="margin-top:-300px;z-index:1">
     <br/>
     <div class="mt-3"></div>
         <h1>Work Experience <span>Timeline</span></h1>
 
-<div class="container">
+<div class="container" >
    <br/>
    <div class="timeline-block timeline-block-right">
       <div class="marker"></div>
@@ -56,7 +55,6 @@
    
 </div>
     </div>
-</div>
 </template>
 
 <style scoped>

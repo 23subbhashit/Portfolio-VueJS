@@ -38,7 +38,8 @@
                         <div class="footer-widget">
                             
                             <div class="footer-social-icon">
-                                <span>Follow Me</span>
+                                <center><span>Follow Me</span></center>
+                                <center>
                                 <a class="fb-ic" href="https://www.facebook.com/subbhashit.mukherjee">
             <i class="fab fa-facebook-f fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
           </a>
@@ -58,6 +59,7 @@
           <a class="ins-ic" href="https://www.instagram.com/subbhashit_2001/">
             <i class="fab fa-instagram fa-lg white-text mr-md-5 mr-3 fa-2x"> </i>
           </a>
+          </center>
                             </div>
                         </div>
                     </div>
