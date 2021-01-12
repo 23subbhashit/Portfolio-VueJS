@@ -3,10 +3,10 @@
     <br/>
     <br/>
     <br/>
-    <div class="shape-container">
-      <div class="shape">
-      </div>
-    </div>
+    <div class="shape-container1">
+<div class="shape1 originBottomLeft">
+  </div>
+</div>
     <div class="container">
     <Bar></Bar>
     </div>
@@ -15,9 +15,9 @@
     <br/>
     <br/>
     <div class="shape-container">
-      <div class="shape">
-      </div>
-    </div>
+<div class="shape originBottomLeft">
+  </div>
+</div>
     <div class="container">
 
     <About></About>
@@ -53,25 +53,35 @@ export default {
 <style scoped>
 .shape-container {
   height: 400px;
-  overflow: hidden;
+    overflow: hidden;
 }
 .shape {
-  background: linear-gradient(to top, #f32b60, #ff8f1f);
+  background: linear-gradient(to top, #283048, #859398);
   height:400px;
   width: 100%;
-  transform: skewY(-8deg);
-  transform-origin: bottom left;
-
+  transition: all .3s;
+}
+.shape-container1 {
+  height: 400px;
+    overflow: hidden;
 }
 .shape1 {
-  background: linear-gradient(to top, #f32b60, #ff8f1f);
+  background: linear-gradient(to top, #7474BF, #348AC7);
   height:400px;
   width: 100%;
-  transform: skewY(-8deg);
-  transform-origin: bottom right;
-  z-index:-1;
+  transition: all .3s;
 }
 
+.shape-container:hover .shape {
+    transform: skewY(-8deg) translateY(-50px);
+}
+.shape-container1:hover .shape1 {
+    transform: skewY(-8deg) translateY(-50px);
+}
+
+.originBottomLeft {
+  transform-origin: bottom left;
+}
 
 
 
