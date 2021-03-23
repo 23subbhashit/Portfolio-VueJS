@@ -58,7 +58,7 @@ nav svg text{
 }
 @media(max-width: 500px){
   nav svg text{
-    font-size: 35px;
+    font-size: 30px;
 }
 }
 </style>

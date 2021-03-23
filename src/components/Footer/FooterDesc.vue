@@ -1,6 +1,6 @@
 <template>
 <div class="container">
-<div class="row" style="margin-top:-280px;z-index:1">
+<div class="row" style="margin-top:-230px;z-index:1">
   <div class="col-lg-3 center col-md-6 col-12 mt-3" >
     <div class="card">
       <div class="card-body">
@@ -53,10 +53,15 @@
 
 
 <style>
-@media (max-width:800px) {
-    .card-body img{
-    width : 400px;
-    height :400px;
-    }
+media (max-width: 800px)
+{
+.card-body img {
+    width: 200px;
+    height: 200px;
+}
+
+.container .row {
+    margin-top: -180px;
+}
 }
 </style>

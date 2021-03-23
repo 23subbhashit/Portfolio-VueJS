@@ -5,7 +5,7 @@
                 <div class="row">
                     <div class="col-xl-4 col-md-4 mb-30">
                         <div class="single-cta">
-                            <i class="fas fa-map-marker-alt"></i>
+                            <i class="fas fa-map-marker-alt mb-4" style="color:#ff5e14;font-size:20px;"></i>
                             <div class="cta-text">
                                 <h4>Find Me</h4>
                                 <span>BMSIT , Banglore , Karnataka</span>
@@ -14,7 +14,7 @@
                     </div>
                     <div class="col-xl-4 col-md-4 mb-30">
                         <div class="single-cta">
-                            <i class="fas fa-phone"></i>
+                            <i class="fas fa-phone mb-4" style="color:#ff5e14;font-size:20px;"></i>
                             <div class="cta-text">
                                 <h4>Call Me</h4>
                                 <span>+ 91 - 9140927375</span>
@@ -23,7 +23,7 @@
                     </div>
                     <div class="col-xl-4 col-md-4 mb-30">
                         <div class="single-cta">
-                            <i class="far fa-envelope-open"></i>
+                            <i class="far fa-envelope-open mb-4" style="color:#ff5e14;font-size:20px;" ></i>
                             <div class="cta-text">
                                 <h4>Mail Me</h4>
                                 <span>subbhashitmukherjee@gmail.com</span>
